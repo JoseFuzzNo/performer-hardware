@@ -7,7 +7,7 @@
   (title_block
     (title "PER|FORMER eurorack sequencer")
     (date "2018-10-09")
-    (rev "1.0")
+    (rev "1.1")
     (company "westlicht")
     (comment 1 "cc-by-nc-sa")
   )

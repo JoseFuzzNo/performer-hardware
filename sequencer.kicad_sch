@@ -7,7 +7,7 @@
   (title_block
     (title "PER|FORMER eurorack sequencer")
     (date "2018-10-09")
-    (rev "1.0")
+    (rev "1.1")
     (company "westlicht")
     (comment 1 "cc-by-nc-sa")
   )
@@ -871,9 +871,6 @@
     (path "/00000000-0000-0000-0000-000059d95816/190bbd84-95e6-455a-a9ab-22bc64e47b48"
       (reference "J26") (unit 1) (value "PJ398SM") (footprint "barullo_eurorack:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_WithDrill")
     )
-    (path "/00000000-0000-0000-0000-000059d94b52/8f7f6d2f-86e8-4057-bb01-6618a4651022"
-      (reference "J27") (unit 1) (value "SWD") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
-    )
     (path "/00000000-0000-0000-0000-00005af89ff5/00000000-0000-0000-0000-000059de5eb2"
       (reference "JP1") (unit 1) (value "USB_A") (footprint "w_connector:MOLEX_USB_105057")
     )
@@ -882,6 +879,9 @@
     )
     (path "/00000000-0000-0000-0000-00005af89ff5/00000000-0000-0000-0000-000059dbf1b1"
       (reference "JP3") (unit 1) (value "NHD-3.12-25664UC") (footprint "w_lcd:NHD-3.12-25664UC")
+    )
+    (path "/00000000-0000-0000-0000-000059d94b52/8f7f6d2f-86e8-4057-bb01-6618a4651022"
+      (reference "JP4") (unit 1) (value "SWD") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-000059adcb3e/00000000-0000-0000-0000-000059add000"
       (reference "JP5") (unit 1) (value "POWER") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
